@@ -10,6 +10,9 @@ Primary Citations:
  2.  Anderson, E. A. (1976), A point energy and mass balance model of a snow
  cover, NOAA Tech. Rep. 19, 150 pp., U.S. Dep. of Commer., Silver Spring, Md.
 Written by Joe Hamman April, 2013
+
+Original available here:
+https://github.com/UW-Hydro/tonic/blob/0.2/tonic/models/snow17/snow17.py
 """
 from __future__ import print_function, division
 
